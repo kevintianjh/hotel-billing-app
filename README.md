@@ -9,3 +9,6 @@
 
 <li>There is a second thread running in the background to periodically save the unfinalized receipt into the database. So if the application got terminated suddenly or user chooses to exit, the state can be later retrieved back using the same customer name</li>
 </ol>
+
+<br/>
+<img src="hotel-billing-app-ss.png" />
