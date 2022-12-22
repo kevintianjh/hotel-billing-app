@@ -11,4 +11,4 @@
 </ol>
 
 <br/>
-<img src="hotel-billing-app-ss.png" />
+<img src="hotel-billing-app-ss.png" style="width: 50%;"/>
