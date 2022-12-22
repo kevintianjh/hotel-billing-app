@@ -1,7 +1,7 @@
 # hotel-billing-app
-A command line billing application written in Java that demonstrated clean design, JDBC connectivity and multi-threading
+<p>A command line billing application written in Java that demonstrated clean design, JDBC connectivity and multi-threading</p>
 
-Enhancements on top of the original specficications
+<b>Enhancements on top of the original specficications</b>
 1) The menu items originally was hardcoded, I organised the menu items into a array of MenuItem objects and printed them dynamically. So that it is easier to change the menu
 
 2) All inputs are validated
